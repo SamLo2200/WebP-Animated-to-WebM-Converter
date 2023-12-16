@@ -63,7 +63,19 @@ Feel free to contribute to this project to enhance the functionality and address
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it according to the terms specified in the license.
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+This project is licensed under the GNU General Public License version 3. Please see the `LICENSE` file for the full text of the license.
+
+<br />
+<br />
+
+#### License Summary
+
+The GPLv3 license grants users the freedom to modify, distribute, and use the project's source code, both in individual and commercial contexts. It requires that any modifications made to the code be released under the same license and mandates the availability of the source code.
+
+For more details, please read the [full GPLv3 license](https://www.gnu.org/licenses/gpl-3.0).
+
 
 ## Disclaimer
 
