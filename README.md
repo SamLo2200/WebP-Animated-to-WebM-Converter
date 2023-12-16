@@ -67,9 +67,6 @@ Feel free to contribute to this project to enhance the functionality and address
 
 This project is licensed under the GNU General Public License version 3. Please see the `LICENSE` file for the full text of the license.
 
-<br />
-<br />
-
 #### License Summary
 
 The GPLv3 license grants users the freedom to modify, distribute, and use the project's source code, both in individual and commercial contexts. It requires that any modifications made to the code be released under the same license and mandates the availability of the source code.
