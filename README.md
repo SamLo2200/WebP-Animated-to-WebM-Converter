@@ -72,12 +72,3 @@ This project is licensed under the GNU General Public License version 3. Please 
 The GPLv3 license grants users the freedom to modify, distribute, and use the project's source code, both in individual and commercial contexts. It requires that any modifications made to the code be released under the same license and mandates the availability of the source code.
 
 For more details, please read the [full GPLv3 license](https://www.gnu.org/licenses/gpl-3.0).
-
-
-## Disclaimer
-
-While the WebP Animated to WebM Converter aims to provide accurate and high-quality conversions, it is essential to note that no software is perfect. The converter may not address all possible edge cases or scenarios. Please use the tool responsibly and consider testing the output thoroughly for your specific use cases. The developers and contributors are not liable for any issues or damages that may arise from the use of this program.
-
-If you encounter any bugs or have suggestions for improvement, please create an issue on the repository, and we will do our best to address it in a timely manner.
-
-Happy converting!
